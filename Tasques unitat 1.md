@@ -21,7 +21,7 @@
     <td>Dijous 21/2</td>
     <td>
       <p>Llibre Repàs d'equacions de primer grau. Capítol 1 <a href="http://aulavirtual.caib.es/c07013905/mod/book/view.php?id=14993&chapterid=3">"Equacions de primer grau"</a>. Veure els 3 vídeos.</p>
-      <p>Llibre Equacions de segon grau. Capítol <a href="http://aulavirtual.caib.es/c07013905/mod/book/view.php?id=14992&chapterid=12">"Valor numèric/Equació de segon grau"</a>. Veure el vídeo i contestar les preguntes.</p>
+      <p>Llibre Equacions de segon grau. Capítol 1.1 <a href="http://aulavirtual.caib.es/c07013905/mod/book/view.php?id=14992&chapterid=12">"Valor numèric/Equació de segon grau"</a>. Veure el vídeo i contestar les preguntes.</p>
     </td>
     <td>
       <p>Fitxa 2. Models quadràtics (totes dues cares)</p>
