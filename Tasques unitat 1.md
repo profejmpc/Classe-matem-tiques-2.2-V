@@ -6,32 +6,32 @@
     <th>Feines durant la sessió</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>Dimarts 19/2</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>Dijous 21/2</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Dimarts 26/2</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
+    <td>Dijous 28/2</td>
     <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dimarts 5/3</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dijous 7/3</td>
     <td></td>
     <td></td>
   </tr>
