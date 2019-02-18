@@ -21,10 +21,10 @@
     <td></td>
     <td></td>
   </tr>
-  <tr>
+  <tr style="background-color: red">
     <td>Dijous 28/2</td>
     <td></td>
-    <td></td>
+    <td>No lectiu</td>
   </tr>
   <tr>
     <td>Dimarts 5/3</td>
