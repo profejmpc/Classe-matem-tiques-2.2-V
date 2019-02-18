@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <th>Data de la classe</th>
-    <th>Feines prèvies</th>
-    <th>Feines durant la sessió</th>
+    <th width="20%">Data de la classe</th>
+    <th width="40%">Feines prèvies</th>
+    <th width="40%">Feines durant la sessió</th>
   </tr>
   <tr>
     <td>Dimarts 19/2</td>
