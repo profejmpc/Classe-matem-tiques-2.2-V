@@ -24,7 +24,9 @@
     <td>
       Llibre Equacions de segon grau. Capítol <a href="http://aulavirtual.caib.es/c07013905/mod/book/view.php?id=14992&chapterid=12">"Valor numèric/Equació de segon grau"</a>. Veure el vídeo i contestar les preguntes.
     </td>
-    <td></td>
+    <td>
+      Fitxa 2. Models quadràtics (totes dues cares)
+    </td>
   </tr>
   <tr>
     <td>Dimarts 26/2</td>
