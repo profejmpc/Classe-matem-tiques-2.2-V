@@ -42,14 +42,18 @@
   <tr>
     <td>Dimarts 5/3</td>
     <td>
+      <p>A concretar...</p>
+    </td>
+    <td>
       <p>Fitxa. Més equacions de segon grau</p>
       <p>Fitxa. Problemes equacions 2n grau</p>
     </td>
-    <td></td>
   </tr>
   <tr>
     <td>Dijous 7/3</td>
-    <td></td>
+    <td>
+      <p>A concretar...</p>
+    </td>
     <td></td>
   </tr>
   <tr>
