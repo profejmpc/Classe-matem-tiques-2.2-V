@@ -22,7 +22,7 @@
   <tr>
     <td>Dijous 21/2</td>
     <td>
-      Llibre Equacions de segon grau. Capítol <a href="http://aulavirtual.caib.es/c07013905/mod/book/view.php?id=14992&chapterid=12"Valor numèric/Equació de segon grau"</a> i contestar les preguntes.
+      Llibre Equacions de segon grau. Capítol <a href="http://aulavirtual.caib.es/c07013905/mod/book/view.php?id=14992&chapterid=12">"Valor numèric/Equació de segon grau"</a>. Veure el vídeo i contestar les preguntes.
     </td>
     <td></td>
   </tr>
