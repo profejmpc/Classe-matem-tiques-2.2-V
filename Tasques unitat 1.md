@@ -29,7 +29,9 @@
   </tr>
   <tr>
     <td>Dimarts 26/2</td>
-    <td></td>
+    <td>
+      <p>A concretar...</p>
+    </td>
     <td>Fitxa. Equacions de segon grau</td>
   </tr>
   <tr style="background-color: red">
