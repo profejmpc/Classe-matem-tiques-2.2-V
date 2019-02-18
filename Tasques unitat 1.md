@@ -15,6 +15,7 @@
       <p><a href="http://aulavirtual.caib.es/c07013905/mod/resource/view.php?id=11127" title="Full Resum de la Programació">Full Resum de la Programació</a></p>
       <p><a href="http://aulavirtual.caib.es/c07013905/mod/resource/view.php?id=14986" title="Dossier de l'assignatura">Dossier de l'assignatura</a></p>
       <p>Fitxa 1. Qüestionari inicial</p>
+      <p>Projecte. Pàgines 1, 2, 3</p>
     </td>
   </tr>
   <tr>
