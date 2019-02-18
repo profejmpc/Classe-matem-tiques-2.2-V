@@ -25,13 +25,14 @@
       Llibre Equacions de segon grau. Capítol <a href="http://aulavirtual.caib.es/c07013905/mod/book/view.php?id=14992&chapterid=12">"Valor numèric/Equació de segon grau"</a>. Veure el vídeo i contestar les preguntes.
     </td>
     <td>
-      Fitxa 2. Models quadràtics (totes dues cares)
+      <p>Fitxa 2. Models quadràtics (totes dues cares)</p>
+      <p>Fitxa 3. Equacions de primer grau</p>
     </td>
   </tr>
   <tr>
     <td>Dimarts 26/2</td>
     <td></td>
-    <td></td>
+    <td>Fitxa. Equacions de segon grau</td>
   </tr>
   <tr style="background-color: red">
     <td>Dijous 28/2</td>
@@ -40,7 +41,10 @@
   </tr>
   <tr>
     <td>Dimarts 5/3</td>
-    <td></td>
+    <td>
+      <p>Fitxa. Més equacions de segon grau</p>
+      <p>Fitxa. Problemes equacions 2n grau</p>
+    </td>
     <td></td>
   </tr>
   <tr>
