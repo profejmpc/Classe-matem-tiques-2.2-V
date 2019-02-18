@@ -8,12 +8,19 @@
   </tr>
   <tr>
     <td>Dimarts 19/2</td>
-    <td></td>
-    <td></td>
+    <td>
+      Comprovar accés a l'<a href="http://aulavirtual.caib.es/c07013905/course/view.php?id=251" title="aula virtual">aula virtual</a>
+    </td>
+    <td>
+      <ul>
+        <li><a href="http://aulavirtual.caib.es/c07013905/mod/resource/view.php?id=11127" title="Full Resum de la Programació">Full Resum de la Programació</a></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>Dijous 21/2</td>
-    <td></td>
+    <td>
+    </td>
     <td></td>
   </tr>
   <tr>
