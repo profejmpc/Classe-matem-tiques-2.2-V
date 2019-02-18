@@ -12,11 +12,9 @@
       Comprovar accés a l'<a href="http://aulavirtual.caib.es/c07013905/course/view.php?id=251" title="aula virtual">aula virtual</a>
     </td>
     <td>
-      <ul>
-        <li><a href="http://aulavirtual.caib.es/c07013905/mod/resource/view.php?id=11127" title="Full Resum de la Programació">Full Resum de la Programació</a></li>
-        <li><a href="http://aulavirtual.caib.es/c07013905/mod/resource/view.php?id=14986" title="Dossier de l'assignatura">Dossier de l'assignatura</a></li>
-        <li>Fitxa 1. Qüestionari inicial</li>
-      </ul>
+      <p><a href="http://aulavirtual.caib.es/c07013905/mod/resource/view.php?id=11127" title="Full Resum de la Programació">Full Resum de la Programació</a></p>
+      <p><a href="http://aulavirtual.caib.es/c07013905/mod/resource/view.php?id=14986" title="Dossier de l'assignatura">Dossier de l'assignatura</a></p>
+      <p>Fitxa 1. Qüestionari inicial</p>
     </td>
   </tr>
   <tr>
