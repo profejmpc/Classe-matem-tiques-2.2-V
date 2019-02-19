@@ -7,7 +7,9 @@
     <th width="40%">Feines durant la sessió</th>
   </tr>
   <tr>
-    <td>Dimarts 19/2</td>
+    <td>
+      <b>Dimarts 19/2</b>
+    </td>
     <td>
       Comprovar accés a l'<a href="http://aulavirtual.caib.es/c07013905/course/view.php?id=251" title="aula virtual">aula virtual</a>
     </td>
@@ -19,7 +21,9 @@
     </td>
   </tr>
   <tr>
-    <td>Dijous 21/2</td>
+    <td>
+      <b>Dijous 21/2</b>
+    </td>
     <td>
       <p>Llibre Repàs d'equacions de primer grau. Capítol 1 <a href="http://aulavirtual.caib.es/c07013905/mod/book/view.php?id=14993&chapterid=3">"Equacions de primer grau"</a>. Veure els 3 vídeos.</p>
       <p>Llibre Equacions de segon grau. Capítol 1.1 <a href="http://aulavirtual.caib.es/c07013905/mod/book/view.php?id=14992&chapterid=12">"Valor numèric/Equació de segon grau"</a>. Veure el vídeo i contestar les preguntes.</p>
@@ -30,19 +34,25 @@
     </td>
   </tr>
   <tr>
-    <td>Dimarts 26/2</td>
+    <td>
+      <b>Dimarts 26/2</b>
+    </td>
     <td>
       <p>A concretar...</p>
     </td>
     <td>Fitxa. Equacions de segon grau</td>
   </tr>
   <tr style="background-color: red">
-    <td>Dijous 28/2</td>
+    <td>
+      <b>Dijous 28/2</b>
+    </td>
     <td></td>
     <td>No lectiu</td>
   </tr>
   <tr>
-    <td>Dimarts 5/3</td>
+    <td>
+      <b>Dimarts 5/3</b>
+    </td>
     <td>
       <p>A concretar...</p>
     </td>
@@ -52,14 +62,18 @@
     </td>
   </tr>
   <tr>
-    <td>Dijous 7/3</td>
+    <td>
+      <b>Dijous 7/3</b>
+    </td>
     <td>
       <p>A concretar...</p>
     </td>
     <td></td>
   </tr>
   <tr>
-    <td>Dimarts 12/3</td>
+    <td>
+      <b>Dimarts 12/3</b>
+    </td>
     <td>Repassar per l'examen</td>
     <td>Examen</td>
   </tr>
